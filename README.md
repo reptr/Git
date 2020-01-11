@@ -17,7 +17,7 @@ $ git add <nama file>
 $ git commit -m "masukkan komentar"
 ```
 
-* Remote Repository (berfungsi untuk mengupload file yang telah Anda buat sebelumnya di local disk.)
+* Remote Repository (berfungsi untuk mengupload file yang telah Anda buat sebelumnya di local disk)
 ```sh
 $ git remote add origin git@github.com:UserNameGit/NamaRepository.git
 ```
